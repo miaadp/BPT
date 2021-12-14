@@ -1,2 +1,3 @@
 # BPT
-A simple library for working with telegram api
+
+The new github page : https://github.com/BPTproto/BPT
